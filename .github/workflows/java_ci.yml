@@ -33,4 +33,4 @@ jobs:
       if: success()
       with:
         name: awa
-        path: /home/runner/work/*
+        path: /home/runner/work/*.jar
