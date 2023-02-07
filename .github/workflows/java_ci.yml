@@ -35,4 +35,4 @@ jobs:
       if: success()
       with:
         name: awa
-        path: /home/runner/work/HustSync/HustSync/*
+        path: /home/runner/work/*
